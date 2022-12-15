@@ -1,0 +1,28 @@
+.headerDataContainer{
+         height: 60px;
+         width: 100%;
+         background-color: tomato;
+         display: flex;
+
+         .selectDataContainer{
+               height: 60px;
+               width: 300px;
+               background-color: green;
+
+         }
+         .displayDataContainer{
+            height: 60px;
+               width: 300px;
+               background-color:yellow;
+         }
+         .searchDataContainer{
+            height: 60px;
+            width: 250px;
+            background-color:gray;
+         }
+         .addproductDataContainer{
+            height: 60px;
+            width: 250px;
+        
+         }
+}
